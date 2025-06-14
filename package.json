@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://shivam-gogawale.github.io/Golden-closet-studio",
+  "homepage": "https://shivam-gogawale.github.io/Golden-closet-studio.git",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
