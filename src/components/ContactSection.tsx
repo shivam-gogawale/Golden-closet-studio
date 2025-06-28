@@ -82,7 +82,7 @@ const ContactSection = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
               <div className="absolute bottom-6 left-6 text-white">
                 <p className="text-lg font-playfair font-semibold">
-                  Dhayri, Pune - 43
+                 Mayur 11, karve road pune 38
                 </p>
                 <p className="text-sm opacity-90">
                   Where dreams meet design
@@ -143,7 +143,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h3 className="font-playfair text-lg font-semibold text-foreground">Address</h3>
-                      <p className="text-foreground/80">Dhayri, Pune – 43</p>
+                      <p className="text-foreground/80">Mayur 11, karve road pune 38.</p>
                     </div>
                   </div>
                 </CardContent>

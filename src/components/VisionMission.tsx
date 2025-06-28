@@ -67,7 +67,7 @@ const VisionMission = () => {
               Our Mission
             </h3>
             <p className="text-lg text-center text-foreground/80 leading-relaxed">
-              "To create timeless, functional, and eco-conscious designs that harmonize with the natural world."
+              "To create timeless and functional designs that harmonize with the natural world."
             </p>
           </div>
         </div>

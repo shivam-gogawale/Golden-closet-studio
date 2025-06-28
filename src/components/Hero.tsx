@@ -47,8 +47,8 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
         <h1 className="font-playfair text-5xl md:text-7xl font-bold mb-6 animate-fade-in-up">
-          Designing Homes with
-          <span className="block text-golden"> Soul and Sustainability</span>
+          Dignify Your Spaces With
+          <span className="block text-golden"> Soul and Elegance.</span>
         </h1>
         
         <p className="text-xl md:text-2xl mb-8 animate-fade-in-up animation-delay-300 font-light">
